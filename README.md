@@ -47,22 +47,13 @@ Composite materials exhibit anisotropic properties due to the orientation of fib
 
 ### Simulation Outputs:
 - **Von Mises Stress:**  
-  ![Von Mises Stress](images/von_mises_stress.png)
+  ![Von Mises Stress](./vonMisesStress.png)
 
-- **X-Axis Stress:**  
-  ![X-Axis Stress](images/x_axis_stress.png)
+- **XY-Axis Shear Stress:**  
+  ![XY-Shear Stress](./XCShearStress.png)
 
-- **Y-Axis Stress:**  
-  ![Y-Axis Stress](images/y_axis_stress.png)
-
-- **XY Shear Stress:**  
-  ![XY Shear Stress](images/xy_shear_stress.png)
-
-- **Young’s Modulus vs. Angle Offset:**  
-  ![Young’s Modulus](images/youngs_modulus.png)
-
-- **Poisson’s Ratio vs. Angle Offset:**  
-  ![Poisson’s Ratio](images/poisson_ratio.png)
+- **Von Mises Strain:**  
+  ![VonMisesStrain](./vonMisesStrain.png)
 
 ---
 
