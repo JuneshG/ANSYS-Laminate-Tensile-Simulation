@@ -61,5 +61,5 @@ Composite materials exhibit anisotropic properties due to the orientation of fib
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/laminate-tensile-test.git
+   git clone https://github.com/JuneshG/ANSYS-Laminate-Tensile-Simulation
    cd laminate-tensile-test
